@@ -1,2 +1,2 @@
 hermes_python==0.1.18
-socketIO_client
+socketIO-client-2
